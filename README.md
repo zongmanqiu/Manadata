@@ -1,4 +1,5 @@
 # Manadata: 用于数据管理的SPSS宏   
+# Manadata: SPSS macro for data management    
 *Copyright (C) 2020-2023 by Qiu Zongman    
 *许可证: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
