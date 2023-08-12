@@ -1,7 +1,14 @@
-# Manadata: 用于数据管理的SPSS宏    
-Licensse: Apache 2.0    
-
-
+# Manadata: 用于数据管理的SPSS宏   
+*Copyright (C) 2020-2023 by Qiu Zongman 
+*许可证: Apache 2.0    
+*E-mail: qiuzongman@foxmail.com    
+*Research Gate: Zongman Qiu    
+*Bilibili: 邱宗满(ID: 423767625)    
+*微信公众号: 邱宗满(ID: qiuzongman2020)    
+    
+*项目托管在Github:    
+*https://github.com/zongmanqiu/Manadata    
+    
 # 更新日志    
 ## [2.0.1] - 2023-08-12    
 ### 增加    
