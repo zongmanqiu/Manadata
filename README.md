@@ -1,5 +1,5 @@
 # Manadata: 用于数据管理的SPSS宏    
-*Licensse: Apache 2.0    
+Licensse: Apache 2.0    
 
 
 # 更新日志    
